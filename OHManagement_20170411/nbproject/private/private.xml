@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Model/office_hours.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Model/user.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/js/massagejs.js</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/reservationsView.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/viewOHforStaff.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/checkEmail.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/staffPage.jsp</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/js/loginValidate.js</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/js/studentjs.js</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/reservationsDao.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/reservationsCancle.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/subjectDao.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/userDao.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/signUp.jsp</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/studentPage.jsp</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Model/notification.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/EditOH.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/js/staffjs.js</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/processes.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/office_hoursDao.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Model/message.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/validateLogin.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Model/reservation.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/index.jsp</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/profile.jsp</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/AddOH.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/OHBooking.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/VerifyRecaptcha.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/SendMessage.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/searchBySubject.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/SearchServlet.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/BookingCancle.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/messageDao.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/web/js/signupjs.js</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/checkUsername.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/DeleteOH.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Controller/saveEditProfile.java</file>
+            <file>file:/C:/Users/Moaaz%20Hasan/Documents/NetBeansProjects/OHManagement_20170411/src/java/Dao/notificationDao.java</file>
+        </group>
+    </open-files>
+</project-private>
